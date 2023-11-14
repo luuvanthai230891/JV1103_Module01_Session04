@@ -1,0 +1,29 @@
+
+.container {
+    background-color:rgb(252,250,246) ;
+    font-stretch: 100%;
+    font-size: 15px;
+    font-style: normal;
+    margin-left: 16px;
+    padding-left: 15px;
+    width: 700px;
+}
+.heading {
+    text-align: center;
+    padding-left: 15px;
+    color: #222;
+
+    
+}
+.paragraphs{
+    margin: 0 0 18px;
+    line-height: 160%;
+    text-rendering: optimizeSpeed;
+    box-sizing: border-box;
+    margin-block-start: 18px;
+    margin-inline-start: 18px;
+    margin-inline-end: 18px;
+    font: 400 18px arial;
+    color: #222;
+
+}

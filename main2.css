@@ -1,0 +1,17 @@
+#tittle {
+    color: yellow;
+}
+.paragraphs1 {
+    color: tomato;
+}
+.paragraphs2 {
+    color: rgb(0, 255, 132);
+}
+.paragraphs3 {
+    color: blue;
+    background-color: bisque;
+}
+.head {
+    border:1px solid;
+    width: 700px;
+}

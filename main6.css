@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    margin: 15px;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}
+
+.form-container {
+    background-color: antiquewhite;
+    color: black;
+    margin: 15px;
+}
+
+.form {
+    margin: 0 auto;
+    padding: 20px 24px;
+    width: 400px;
+}
+
+.form-heading {
+    text-align: center;
+}
+
+
+
+.form-group + .form-group{
+    margin-top: 20px;
+}
+
+.form-label {
+    min-width: 200px;
+}
+.paragraph {
+    text-align: left;
+    padding: 15px;
+}
